@@ -1,2 +1,2 @@
 # concurrent-systems
-This repo is for my coursework in KSU CIS 625/Concurrent Systems. 
+This repo is for my coursework in CIS 625/Concurrent Systems at KSU.
