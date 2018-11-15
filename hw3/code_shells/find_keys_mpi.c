@@ -1,6 +1,9 @@
-//  Author: Joe Webster
-//  Date: Sep. 30th, 2018
-//  Sources: Dan's initial find_keys.c file, geeksforgeeks
+/* Author: Joseph Webster
+ * Date: October 5th, 2018
+ * Professor: Dr. Daniel Andresen
+ * Course: CIS 625 | Concurrent Systems
+ * Assignment 3: Distributed Computing with MPI
+ */
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

@@ -1,3 +1,9 @@
+/* Author: Joseph Webster
+ * Date: September 19, 2018
+ * Professor: Dr. Daniel Andresen
+ * Course: CIS 625 | Concurrent Systems
+ * Assignment 2: Parallel Computing with Pthreads
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
