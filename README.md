@@ -1,7 +1,8 @@
 # concurrent-systems
 This repo is for my coursework in CIS 625/Concurrent Systems at KSU.
 
-**PLEASE DO NOT COPY WITHOUT PERMISSION**
+***Do Not Copy:*** **This is solely for keeping record of my work & presentation of prior experience. If used for personal use, please reference. If used for academic purposes, verify with the primary instructor before use and reference if applicable.**  
+
 ## Homework 0
 <p><strong>Description</strong></p>
 <p>The purpose of this project is to get you used to submitting jobs to Beocat using the scheduler, for multiple numbers of machines (nodes) to complete a job. This is complementary to our lecture Friday, where you will learn how to do exactly this.</p>
